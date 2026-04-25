@@ -1,4 +1,3 @@
-# JORDAN
 # 👟 Air Jordan Resale Price Prediction
 
 ## Problem Statement
